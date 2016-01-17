@@ -5,7 +5,9 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
-public class Pomiary extends Activity 
+public class Pomiary extends Activity
+
+	// bla bla
 
 {
 	protected void onCreate (Bundle sevedInstanceState) {
